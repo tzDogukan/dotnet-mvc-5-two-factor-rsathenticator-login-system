@@ -4,7 +4,7 @@ The installation of the plugin 3 basic step.
 
 1.Include the project in your compiler
 ---------------------------------------------
-2.
+2. Execute sql file in mysql server
 ---------------------------------------------
 Basic usage:
 
